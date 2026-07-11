@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mohammad dhedy
-- 👀 I’m interested in flight
 - 🌱 I’m currently learning computer science
 - i am a junior web developer
 - 💞️ I’m looking to collaborate on ...
