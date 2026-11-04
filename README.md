@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:mohammed.dhedy@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammad-dhedy/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://mohammad2004dhedy.github.io/portfolio_official/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -35,25 +35,25 @@ Graduation project (team of 4, I was team lead), successfully defended in June 2
 
 `React` `Tailwind CSS` `FastAPI` `PostgreSQL` `Qdrant` `LLMs`
 
-[GitHub](YOUR_LAWMIND_REPO_URL) · [Demo Video](YOUR_DEMO_VIDEO_URL)
+[GitHub](https://github.com/mohammad2004dhedy/lawmind) · [Demo Video](https://drive.google.com/file/d/1xXdiCOvALqfoGWWuyLI3xC1_UvolIdXi/view)
 
 ### Task Tracker — Full-Stack App
 Spring Boot REST API (statuses and tasks CRUD) on PostgreSQL via Docker Compose, with Flyway migrations, JWT security through a Spring Security filter chain, and a global error handler with a unified error format. The React + TypeScript UI uses reusable components, Context-based state, a typed API client, and loading/empty/error states.
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `React` `TypeScript`
 
-[GitHub](YOUR_TASK_TRACKER_REPO_URL)
+[GitHub](https://github.com/TASK-Test/TASK3/tree/main/students/Mohammed%20Dhedy)
 
 ### CampusCircle — Social Platform for University Students
 A social platform where students can register, post, interact, and comment. I designed the PostgreSQL schema; the backend and frontend were built with AI assistance.
 
 `.NET` `React` `PostgreSQL (Supabase)`
 
-[Live Demo](YOUR_CAMPUSCIRCLE_URL)
+[Live Demo](https://campuscircleaaup.netlify.app/)
 
 ### More
 - **ImagesCenter** — multi-source image search (Pixabay, Pexels, Unsplash APIs)
-- Responsive landing pages and other self-directed projects, see my [portfolio](YOUR_PORTFOLIO_URL)
+- Responsive landing pages and other self-directed projects, see my [portfolio](https://mohammad2004dhedy.github.io/portfolio_official/)
 
 ---
 
